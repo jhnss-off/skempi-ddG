@@ -1,3 +1,5 @@
+Catboost model for ddG sign prediction based on SKEMPI data.
+
 Data preprocessing & model creation in Main.ipynb.
 
 Raw SKEMPI data: https://life.bsc.es/pid/skempi2/database/index
